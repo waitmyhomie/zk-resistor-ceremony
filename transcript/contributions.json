@@ -165,6 +165,16 @@
       "ptau_hash": "sha256:a1fde38fdc55fa701671a93d2d0006f48babbff4dccbfd6d8fc34eeb9b570e49",
       "attestation": "contributors/Zeosp.attestation.md",
       "repo_commit": "c9c16b95617b907de4dd6aa4985f70d84623540d"
+    },
+    {
+      "stage": "phase1",
+      "slot": 16,
+      "name": "wlaDICK",
+      "timestamp": "2026-05-31T14:34:17Z",
+      "ptau": "phase1/pot_0016_wlaDICK.ptau",
+      "ptau_hash": "sha256:b569555a0fa8ce3da1d9f080980a55767164dededafb4fe7ddc30e002d2dbe7a",
+      "attestation": "contributors/wlaDICK.attestation.md",
+      "repo_commit": "47747e99ee835bff8f9ce63150fbe6d5ab0e71f1"
     }
   ]
 }
