@@ -245,6 +245,28 @@
       "ptau_hash": "sha256:8b20614a1cd7424343c112c37416a1f157f6cb63d2164b1c9eed0848a0facfa4",
       "attestation": "contributors/the-gateway-ton.attestation.md",
       "repo_commit": "ed9539031a68312b1624644a0beda4da3459e4b3"
+    },
+    {
+      "stage": "phase1",
+      "slot": 24,
+      "name": "drand-beacon",
+      "timestamp": "2026-06-20T20:05:26Z",
+      "ptau": "phase1/pot_0024_drand-beacon.ptau",
+      "ptau_hash": "sha256:719d0041d920251fec16f65ae22835bf06bad5951c74eb2142b664ed47874624",
+      "attestation": null,
+      "drand_round": 6218006,
+      "drand_randomness": "32bbd601b7876945bf4ae0b379d24678187a8ab867584f0cbbb8ccc8a4ead93b"
+    },
+    {
+      "stage": "phase2",
+      "slot": 0,
+      "name": "initial",
+      "timestamp": "2026-06-20T20:05:26Z",
+      "insert_zkey": "phase2/insert_0000_initial.zkey",
+      "withdraw_zkey": "phase2/withdraw_0000_initial.zkey",
+      "insert_zkey_hash": "sha256:393aa5392d8b9da02aec696891a2434d0df151c9f5abb3e0debc1d4a6462de0e",
+      "withdraw_zkey_hash": "sha256:11242a81c253907e65aca08e5c8316b3e7c15654aa2418e5a1d50feae42d8b8a",
+      "attestation": null
     }
   ]
 }
