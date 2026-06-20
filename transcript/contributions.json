@@ -267,6 +267,18 @@
       "insert_zkey_hash": "sha256:393aa5392d8b9da02aec696891a2434d0df151c9f5abb3e0debc1d4a6462de0e",
       "withdraw_zkey_hash": "sha256:11242a81c253907e65aca08e5c8316b3e7c15654aa2418e5a1d50feae42d8b8a",
       "attestation": null
+    },
+    {
+      "stage": "phase2",
+      "slot": 1,
+      "name": "TONresistor-p2",
+      "timestamp": "2026-06-20T20:57:42Z",
+      "insert_zkey": "phase2/insert_0001_TONresistor-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0001_TONresistor-p2.zkey",
+      "insert_zkey_hash": "sha256:74afbe14d348622998e04dc268f444289461f3057530e5f28cda9efd9e78016c",
+      "withdraw_zkey_hash": "sha256:6cd72d544ad34ebac5430a73a12e1676ec00abfbbcb0f9b00438abcce4f83950",
+      "attestation": "contributors/TONresistor-p2.attestation.md",
+      "repo_commit": "b8a64b3e8c47b0e944e5d0d4f3f58dd65cf4cae8"
     }
   ]
 }
