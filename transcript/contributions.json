@@ -204,7 +204,7 @@
       "ptau": "phase1/pot_0019_whicencer.ptau",
       "ptau_hash": "sha256:68d1d6ff443c7f223680ff862e33badf1db22020e8b49c8820815f11ad76e8be",
       "attestation": "contributors/whicencer.attestation.md",
-      "repo_commit": "bfdb36864c001c8144def9b79fcd6138b8ae9769"
+      "repo_commit": "uncommitted"
     },
     {
       "stage": "phase1",
