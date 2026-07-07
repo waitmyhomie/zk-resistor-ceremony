@@ -204,7 +204,7 @@
       "ptau": "phase1/pot_0019_whicencer.ptau",
       "ptau_hash": "sha256:68d1d6ff443c7f223680ff862e33badf1db22020e8b49c8820815f11ad76e8be",
       "attestation": "contributors/whicencer.attestation.md",
-      "repo_commit": "uncommitted"
+      "repo_commit": "bfdb36864c001c8144def9b79fcd6138b8ae9769"
     },
     {
       "stage": "phase1",
@@ -399,6 +399,18 @@
       "withdraw_zkey_hash": "sha256:7faad7e80d2c883595b40dea37aeec5cdfc0e96000bf405fcae10dd995adf357",
       "attestation": "contributors/cryptopjes-p2.attestation.md",
       "repo_commit": "ca8a360f47e831b429802c7a3a717afdb9c8d7b2"
+    },
+    {
+      "stage": "phase2",
+      "slot": 12,
+      "name": "waitmyhomie-p2",
+      "timestamp": "2026-07-07T06:42:34Z",
+      "insert_zkey": "phase2/insert_0012_waitmyhomie-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0012_waitmyhomie-p2.zkey",
+      "insert_zkey_hash": "sha256:25fe7bd7709b5e185d51128262d70602ec3b41bac61e658644b2ec459b7bfcc5",
+      "withdraw_zkey_hash": "sha256:cb7590b0fbfcee3a790a92fb9b8199dfde8c4401ea7a0d7bef588ed48b92b64d",
+      "attestation": "contributors/waitmyhomie-p2.attestation.md",
+      "repo_commit": "bfdb36864c001c8144def9b79fcd6138b8ae9769"
     }
   ]
 }
